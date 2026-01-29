@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 This is Vitor Costa! I'm currently working as a DevOps Engineer at **Aliare** 100% remote. My tech stack includes Linux, Networking Fundamentals, Programming (Bash), Docker, Kubernetes, AWS, Ansible and others.
+ 🔭 This is Vitor Costa! I'm currently working as a DevOps Engineer at **Aliare** 100% remote. My tech stack includes Linux, Docker, Kubernetes, Networking, AWS, Azure, Bash, Python, Ansible and others.
 
  What excites me about DevOps is the possibility to work with complex infrastructures, but automate pretty much everything on top of it 💙.
 
